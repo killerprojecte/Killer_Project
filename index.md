@@ -2,11 +2,16 @@
 
 你可以使用该补丁去关闭机房管理助手
 
-# Header 1
-## Header 2
-### Header 3
+## 版权
 
-**Bold** and _Italic_ and `Code` text
+©copyright 2021 Killer_Project
 
-[Link](url) and ![Image](src)
-```
+Killer_Project作者版权所有
+
+## 关于我们
+
+本项目在Gitee、CSDN都有发布
+
+Github Pages仅作为网页使用
+
+侵权联系：victoriabrooks1506@gmail.com
