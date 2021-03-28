@@ -3,4 +3,4 @@
 
 # 官网
 
-[www.mabio.top](https://mabio.top/)
+[mabio.top](https://mabio.top/)
