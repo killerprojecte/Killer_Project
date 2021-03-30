@@ -6,6 +6,7 @@
 
 [历史版本](https://github.com/killerprojecte/Killer_Project/releases)
 [CDN](https://gitee.com/KillerProject/Killer-Project/releases)
+
 ## 欢迎使用Killer_Project
 
 你可以使用该补丁去关闭机房管理助手
