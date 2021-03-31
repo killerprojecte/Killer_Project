@@ -3,7 +3,7 @@
 
 [下载4.2.2版本](https://github.com/killerprojecte/KILLER-Project/releases/download/Killer_4.2.2/Killer_4.2.2.zip)
 |
-[CDN](Https://gitee.com/KillerProject/Killer-Project/attach_files/649288/download/Killer_4.2.2.zip
+[CDN](Https://gitee.com/KillerProject/Killer-Project/attach_files/649288/download/Killer_4.2.2.zip)
 
 [历史版本](https://github.com/killerprojecte/Killer_Project/releases)
 |
